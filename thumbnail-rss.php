@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Thumbnail RSS
  * Version: 1.0.0
- * Plugin URI: #
+ * Plugin URI: https://github.com/akainezumi/thumbnail-rss
  * Description: Allows thumbnails to appear in RSS feeds.
  * Author: AkaiNezumi
  * Author URI: https://github.com/akainezumi/
